@@ -9,7 +9,7 @@
 - 👀 My current project is [sclui](https://github.com/0x3alex/sclui)  
   
 
-- 📚 I’m currently learning Haskell and deepening my C skills  
+- 📚 I’m currently learning Rust and Carbon. Meanwhile i am deepening my C skills  
   
 
 <br/>  
