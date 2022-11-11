@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alex! I am currently in an apprenticeship to be an software engineer 💻</div>  
   
 
-- 👀 My current project is [sclui](https://github.com/0x3alex/sclui)  
+- 👀 My current project is [generics](https://github.com/0x3alex/generics)  
   
 
 - 📚 I’m currently learning Rust and Carbon. Meanwhile i am deepening my C skills  
