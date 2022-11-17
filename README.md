@@ -9,7 +9,7 @@
 - 👀 My current project is [generics](https://github.com/0x3alex/generics)  
   
 
-- 📚 I’m currently learning C++. Meanwhile i am deepening my C skills  
+- 📚 I’m currently learning Go. Meanwhile i am deepening my C skills  
   
 
 <br/>  
