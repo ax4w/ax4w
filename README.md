@@ -75,7 +75,7 @@
 
 # License
 
-**Every project of mine is usable unde the MIT license, even when not specified in the repository itself.**
+**Every project of mine is usable under the MIT license, even when not specified in the repository itself.**
 
 >MIT License
 >
