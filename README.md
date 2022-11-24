@@ -9,9 +9,6 @@
 - 👀 My current project is [lopa](https://github.com/0x3alex/lopa)  
   
 
-- 📚 I’m currently learning Go. Meanwhile i am deepening my C skills  
-  
-
 <br/>  
 
 
