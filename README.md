@@ -7,7 +7,6 @@
   
 
 - 👀 My current project is [lopa](https://github.com/0x3alex/lopa)  
-- 🎄 Currently enjoying my time in the [Advent Of Code 2022](https://github.com/0x3alex/aoc22)
   
 
 <br/>  
