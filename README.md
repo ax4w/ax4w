@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Alex! I am currently in an apprenticeship to be an software engineer 💻</div>  
+### <div align="center">I'm Alex! I am currently studying C.S in Dortmund</div>  
   
 
 - 👀 My current project is [lopa](https://github.com/0x3alex/lopa)  
