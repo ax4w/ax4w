@@ -6,7 +6,7 @@
 ### <div align="center">I'm Alex! I am currently studying C.S in Dortmund</div>  
   
 
-- 👀 My current project is [lopa](https://github.com/0x3alex/lopa)  
+- 👀 My current project is [GameOfLife](https://github.com/0x3alex/GameOfLife)  
   
 
 <br/>  
