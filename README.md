@@ -9,7 +9,7 @@
 
 ## Latest Project
 
-My latest Project is <a href="https://github.com/0x3alex/sysinfo/"> Sysinfo </a>
+My latest Project is <a href="https://github.com/0x3alex/sysinf/"> Sysinfo </a>
 
 
 ## My Skill Set  
