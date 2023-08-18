@@ -7,9 +7,17 @@
 
 <br/>  
 
-## Latest Project
+## Some of my Projects
+ <ul>
+  <li><a href="https://github.com/0x3alex/sysinf/"> SysInf </a></li>
+  <li><a href="https://github.com/0x3alex/AsciiClock/"> AsciiClock </a></li>
+  <li><a href="https://github.com/0x3alex/sclui/"> sclui </a></li>
+  <li> <a href="https://github.com/0x3alex/CountYourCode/"> CountYourCode </a></li>
+   <li><a href="https://github.com/0x3alex/PwGen/"> Password Generator </a> </li>
+   <li><a href="https://github.com/NydooMiningGroup/GoWebSocket/"> Client Websocket Implementation </a> </li>
+</ul> 
 
-My latest Project is <a href="https://github.com/0x3alex/sysinf/"> SysInf </a>
+ <br/>  
 
 
 ## My Skill Set  
