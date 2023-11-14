@@ -19,7 +19,9 @@
   <li> <a href="https://github.com/0x3alex/CountYourCode/"> CountYourCode </a></li>
    <li><a href="https://github.com/0x3alex/PwGen/"> Password Generator </a> </li>
 </ul> 
+
 ### Fun
+
 <ul>
   <li><a href="https://github.com/0x3alex/GoFuck/"> GoFuck </a></li>
   <li><a href="https://github.com/0x3alex/AsciiClock/"> AsciiClock </a></li>
