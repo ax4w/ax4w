@@ -10,16 +10,20 @@
 <br/>  
 
 ## Some of my Projects
+### Serious
  <ul>
    <li><a href="https://github.com/0x3alex/Gorage/"> Gorage </a></li>
    <li><a href="https://github.com/0x3alex/ToDoer/"> ToDoer </a></li>
   <li><a href="https://github.com/0x3alex/sysinf/"> SysInf </a></li>
-  <li><a href="https://github.com/0x3alex/AsciiClock/"> AsciiClock </a></li>
   <li><a href="https://github.com/0x3alex/sclui/"> sclui </a></li>
   <li> <a href="https://github.com/0x3alex/CountYourCode/"> CountYourCode </a></li>
    <li><a href="https://github.com/0x3alex/PwGen/"> Password Generator </a> </li>
-   <li><a href="https://github.com/NydooMiningGroup/GoWebSocket/"> Client Websocket Implementation </a> </li>
 </ul> 
+### Fun
+<ul>
+  <li><a href="https://github.com/0x3alex/GoFuck/"> GoFuck </a></li>
+  <li><a href="https://github.com/0x3alex/AsciiClock/"> AsciiClock </a></li>
+</ul>
 
  <br/>  
 
