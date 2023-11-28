@@ -1,100 +1,22 @@
+# 💫 About Me:
+🔭 I’m currently working on Gorage<br>🌱 I’m currently learning Haskell
 
 
-<div align="center">
-<img src="https://i.giphy.com/media/1kkxWqT5nvLXupUTwK/giphy.webp" align="center" style="width: 40%" />
-</div>  
-  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0x3alex) 
 
-### <div align="center">I'm Alex! I am currently studying C.S in Dortmund</div>   
+# 💻 Tech Stack:
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=0x3alex&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=0x3alex&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x3alex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## Some of my Projects
-### Serious
- <ul>
-   <li><a href="https://github.com/0x3alex/Gorage/"> Gorage </a></li>
-   <li><a href="https://github.com/0x3alex/ToDoer/"> ToDoer </a></li>
-  <li><a href="https://github.com/0x3alex/sysinf/"> SysInf </a></li>
-  <li><a href="https://github.com/0x3alex/sclui/"> sclui </a></li>
-  <li> <a href="https://github.com/0x3alex/CountYourCode/"> CountYourCode </a></li>
-   <li><a href="https://github.com/0x3alex/PwGen/"> Password Generator </a> </li>
-</ul> 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-### Fun
-
-<ul>
-  <li><a href="https://github.com/0x3alex/GoFuck/"> GoFuck </a></li>
-  <li><a href="https://github.com/0x3alex/AsciiClock/"> AsciiClock </a></li>
-</ul>
-
- <br/>  
-
-
-## My Skill Set  
-
-<div align="center">  
-<img src="https://skillicons.dev/icons?i=java,c,go,postgresql,git" />
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-## Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3alex&langs_count=8" alt="languages graph"  />
-</div>
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/0x3alex" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/0x3alex" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/0x3alex" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=0x3alex&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-# License
-
-**Every project of mine is usable under the MIT license, even when not specified in the repository itself.**
-
->MIT License
->
->Copyright (c) 2023 Alex
->
->Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the >Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, >and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
->
->The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
->
->THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A >PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF >CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+---
+[![](https://visitcount.itsvg.in/api?id=0x3alex&icon=0&color=0)](https://visitcount.itsvg.in)
