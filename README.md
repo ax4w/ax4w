@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0x3alex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x3alex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
+### 😂 Random Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
