@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on Gorage<br>🌱 I’m currently learning Haskell
+🌱 I’m currently learning Go
 
 
 ## Socials:
