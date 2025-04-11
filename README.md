@@ -14,7 +14,7 @@ Hi there! I'm Alexander, a creative computer science student and passionate phot
 ### 👨‍💻 Projects
 
 - [gorage](https://github.com/ax4w/gorage): A simple local JSON-based storage system written in Go.
-- [spe](https://github.com/ax4w/spe): An extension for the POSIX header curses.h to create simple and usable user interfaces for the command line.
+- [spe](https://github.com/ax4w/spe): A simple custom cpu emulator
 - [journal](https://github.com/ax4w/journal) A travel photo-book alterntive
 - [fm](https://github.com/ax4w/fm): A very basic tree-based CLI file manager for Linux.
 
