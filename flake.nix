@@ -16,8 +16,9 @@
       nix.enable = false;
       nixpkgs.config.allowUnfree = true;
       environment.systemPackages =
-        [ 
+      [ 
 		pkgs.fastfetch
+		pkgs.go_1_24
 		pkgs.kitty
 		pkgs.vscode
 		# pkgs.anytype
