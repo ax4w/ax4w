@@ -12,6 +12,7 @@
     configuration = { pkgs, ... }: {
       # List packages installed in system profile. To search by name, run:
       # $ nix-env -qaP | grep wget
+      security.pam.services.sudo_local.touchIdAuth = true;
       nix.enable = false;
       nixpkgs.config.allowUnfree = true;
       environment.systemPackages =
