@@ -4,4 +4,4 @@ Hi there! I'm Alexander, a creative computer science student and passionate phot
 ### Skills & Interests
 - **Programming Languages**: Go, C, Typescript amd Haskell
 - **Frameworks**: Svelte
-- **Interests**: Photography, Computer Science
+- **Interests**: [Photography](https://journal.ax4w.me), Computer Science
